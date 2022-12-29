@@ -1,0 +1,15 @@
+D:\sujay\Helloworldapp\bin\Debug\net7.0\Helloworldapp.exe
+D:\sujay\Helloworldapp\bin\Debug\net7.0\Helloworldapp.deps.json
+D:\sujay\Helloworldapp\bin\Debug\net7.0\Helloworldapp.runtimeconfig.json
+D:\sujay\Helloworldapp\bin\Debug\net7.0\Helloworldapp.dll
+D:\sujay\Helloworldapp\bin\Debug\net7.0\Helloworldapp.pdb
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.csproj.AssemblyReference.cache
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.AssemblyInfoInputs.cache
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.AssemblyInfo.cs
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.csproj.CoreCompileInputs.cache
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.dll
+D:\sujay\Helloworldapp\obj\Debug\net7.0\refint\Helloworldapp.dll
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.pdb
+D:\sujay\Helloworldapp\obj\Debug\net7.0\Helloworldapp.genruntimeconfig.cache
+D:\sujay\Helloworldapp\obj\Debug\net7.0\ref\Helloworldapp.dll
